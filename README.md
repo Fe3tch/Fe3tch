@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fe3tch
+- 👋 howdy hey, It's @Fe3tch
 - 👀 I’m interested in: learning new stuff
 - 🌱 I’m currently learning: more java, python and i wanna get into C# more
 - 💞️ I’m looking to collaborate on: atm, nothing.
