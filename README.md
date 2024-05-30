@@ -1,7 +1,6 @@
 - 👋 howdy hey, It's @Fe3tch
-- 👀 I’m interested in: learning new stuff
-- 🌱 I’m currently learning: more java, python and i wanna get into C# more
-- 💞️ I’m looking to collaborate on: atm, nothing.
+- 👀 I love learning new things
+- 🌱 currently learning how to make my own game
 - 📫 How to reach me: best on discord under the same handle
 - ⚡ Fun fact: i'm a dumbass
 
